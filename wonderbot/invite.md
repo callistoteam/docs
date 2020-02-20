@@ -13,10 +13,10 @@
 
 3. 디스코드 Oauth 인증 페이지로 연결되면, 본인의 서버를 선택한 후, 승인 버튼을 클릭합니다.
 
-   ![Step3](images/wonderbot/invite1-step3.png)
+   ![Step3](../../images/wonderbot/invite1-step3.png)
 
 4. `로봇이 아닙니다`를 클릭합니다.
-   ![Step4](images/wonderbot/invite1-step4.png)
+   ![Step4](../../images/wonderbot/invite1-step4.png)
 
 5. 본인의 서버에서 **원더봇**을 만나보실 수 있습니다!
 
@@ -26,14 +26,14 @@
 
 2. 본인이 원하시는 권한을 자유롭게 선택하신 후, 아래의 초대링크를 클릭해주세요!
 
-   ![Step4](images/wonderbot/invite2-step2.png)
+   ![Step4](../../images/wonderbot/invite2-step2.png)
 
 3. 디스코드 Oauth 인증 페이지로 연결되면, 본인의 서버를 선택한 후, 승인 버튼을 클릭합니다.
 
-   ![Step3](images/wonderbot/invite1-step3.png)
+   ![Step3](../../images/wonderbot/invite1-step3.png)
 
 4. `로봇이 아닙니다`를 클릭합니다.
-   ![Step4](images/wonderbot/invite1-step4.png)
+   ![Step4](../../images/wonderbot/invite1-step4.png)
 
 5. 본인의 서버에서 **원더봇**을 만나보실 수 있습니다!
 
