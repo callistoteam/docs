@@ -16,7 +16,7 @@
    ![Step3](../../images/wonderbot/invite1-step3.png)
 
 4. `로봇이 아닙니다`를 클릭합니다.
-   
+
    ![Step4](../../images/wonderbot/invite1-step4.png)
 
 5. 본인의 서버에서 **원더봇**을 만나보실 수 있습니다!
